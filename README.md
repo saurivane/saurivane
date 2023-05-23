@@ -1,8 +1,8 @@
 # ***¡Hola!*** 👋
 
-Me llamo ***Vanesa Sauri***, una apasionadoa programadora autodidacta desde una edad temprana. Me complace presentarme como una entusiasta de la programación con un enfoque especializado en el desarrollo back-end, creación y consumo de APIs, y el análisis de datos.
+Me llamo ***Vanesa Sauri***, una apasionada programadora autodidacta desde una edad temprana. Me complace presentarme como una entusiasta de la programación con un enfoque especializado en el desarrollo back-end, creación y consumo de APIs, y el análisis de datos.
 
-Desde que era niñoa, descubrí mi fascinación por la programación y, a lo largo de los años, he invertido tiempo y esfuerzo en convertir mi pasión en una habilidad sólida. A través de la autodisciplina y el aprendizaje autodidacta, he adquirido un conocimiento profundo y una experiencia práctica en una variedad de áreas de programación.
+Desde que era niña, descubrí mi fascinación por la programación y, a lo largo de los años, he invertido tiempo y esfuerzo en convertir mi pasión en una habilidad sólida. A través de la autodisciplina y el aprendizaje autodidacta, he adquirido un conocimiento profundo y una experiencia práctica en una variedad de áreas de programación.
 
 Mi especialización en el desarrollo back-end me ha permitido crear soluciones robustas y escalables para diversas aplicaciones. Me siento cómoda trabajando en el diseño y desarrollo de sistemas eficientes, centrándome en la optimización del rendimiento y la seguridad.
 
